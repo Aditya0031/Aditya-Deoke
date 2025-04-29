@@ -51,6 +51,8 @@ Jira, Agile Methodologies
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Apache Hadoop" width="50" height="50_
 
+---
+
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaDeoke-blue?logo=linkedin)](https://www.linkedin.com/in/adityadeoke/)  
 [![Email](https://img.shields.io/badge/Email-aditya.deoke@utdallas.edu-red?logo=gmail)](mailto:aditya.deoke@utdallas.edu)
