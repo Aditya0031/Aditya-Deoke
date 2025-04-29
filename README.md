@@ -53,9 +53,8 @@ Jira, Agile Methodologies
 
 ---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdityaDeoke-blue?logo=linkedin)](https://www.linkedin.com/in/adityadeoke/)  
-[![Email](https://img.shields.io/badge/Email-aditya.deoke@utdallas.edu-red?logo=gmail)](mailto:aditya.deoke@utdallas.edu)
+• [LinkedIn](https://www.linkedin.com/in/adityadeoke/) 
+• [Email Me](mailto:aditya.deoke@utdallas.edu)
 
 ---
 
