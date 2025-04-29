@@ -3,6 +3,9 @@
 🎓 Master's in Information Technology and Management | UT Dallas '25  
 🏆 Certified Scrum Product Owner (CSPO®) | 🎯 Aspiring Business Analyst | Product Analyst | Project Manager
 
+• [LinkedIn](https://www.linkedin.com/in/adityadeoke/) 
+• [Email Me](mailto:aditya.deoke@utdallas.edu)
+
 ---
 
 ## About Me
@@ -50,11 +53,6 @@ Jira, Agile Methodologies
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Apache Hadoop" width="50" height="50_
-
----
-
-• [LinkedIn](https://www.linkedin.com/in/adityadeoke/) 
-• [Email Me](mailto:aditya.deoke@utdallas.edu)
 
 ---
 
