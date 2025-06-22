@@ -21,7 +21,7 @@
 ---
 
 **Programming Languages:**  
-Python, R, SAS, MATLAB, JavaScript
+Python, R, SAS, MATLAB
 
 **Data Analysis Tools:**  
 Power BI, Tableau, Looker
